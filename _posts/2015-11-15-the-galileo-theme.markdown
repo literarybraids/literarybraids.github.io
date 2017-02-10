@@ -15,6 +15,9 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 
 
+<div class="post-image">
+    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
+    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 
 
 <!--
