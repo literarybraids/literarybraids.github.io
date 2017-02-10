@@ -3,12 +3,12 @@ layout: post
 title:  "Literary Braids"
 date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
-location: What is "Literary Braids"?
+location: What would it look like if we could <i>see</i> how characters interact between them?
 ---
 
-Literary Braids is
+Sometimes I thought of characters as strings in time, entangling together. I wanted to understand that. 
 
-Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
+That's the beginning of <i>Literary Braids</i>. 
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
