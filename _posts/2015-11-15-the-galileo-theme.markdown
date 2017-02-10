@@ -6,14 +6,9 @@ categories: jekyll theme
 location: What is "Literary Braids"?
 ---
 
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
+Literary Braids is
 
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
-
-<div class="post-image">
-    <img src="/alice_squared.jpg" alt="A full-size image example" alt = "" height />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
-
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
