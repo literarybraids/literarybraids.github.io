@@ -11,13 +11,11 @@ Landing somewhere between a scholarly publication and an adventurers notebook, t
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
 
 <div class="post-image">
-    <img src="http://pixady.com/image/ixv/" alt="A full-size image example" alt = "" />
+    <img src="/alice_squared.jpg" alt="A full-size image example" alt = "" />
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 
 
-<div class="post-image">
-<img src="http://img.pixady.com/2017/02/441939_alicesquared_460x460.jpg" alt="" align = "middle" height="1000" width="1000"/>
-</div>
+
 
 <!--
 <div class="post-image post-image--split">
