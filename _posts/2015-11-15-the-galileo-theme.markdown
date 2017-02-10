@@ -13,9 +13,11 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
 <div class="post-image">
     <img src="http://pixady.com/image/ixv/" alt="A full-size image example" />
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
-</div>
 
-<a href="http://pixady.com/image/ixv/"><img src="http://img.pixady.com/2017/02/441939_alicesquared_460x460.jpg" alt="" /></a>
+
+<div class="post-image">
+<img src="http://img.pixady.com/2017/02/441939_alicesquared_460x460.jpg" alt="" />
+</div>
 
 <div class="post-image post-image--split">
     <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The first in an example of split-imagery" />
