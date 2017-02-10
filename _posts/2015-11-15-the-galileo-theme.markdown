@@ -11,7 +11,7 @@ Landing somewhere between a scholarly publication and an adventurers notebook, t
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
 
 <div class="post-image">
-    <img src="https://drive.google.com/file/d/0BxxWTqtOL__lUnVUUjR5R01xVDNaaDdNQzA1MHhZaEZ3dTRv/view" alt="A full-size image example" />
+    <img src="http://pixady.com/image/ixv/" alt="A full-size image example" />
     <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
 </div>
 
