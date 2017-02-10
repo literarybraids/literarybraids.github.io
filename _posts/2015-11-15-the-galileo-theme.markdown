@@ -5,9 +5,10 @@ date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
 <!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
 ---
-<p style="font-size:50px"><center> What would it look like if we could <i>see</i> how characters interact between them? </center></p>
+<center> Ever wondered how character interactions <i>look</i> like? </center>
 
-<center>Probably something like this. </center>
+
+<center> Come down the rabbit hole </center>
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
