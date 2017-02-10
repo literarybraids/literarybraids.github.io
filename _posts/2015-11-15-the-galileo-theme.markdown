@@ -3,12 +3,12 @@ layout: post
 title:  "Literary Braids"
 date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
-location: What would it look like if we could <i>see</i> how characters interact between them?
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
 ---
 
-Sometimes I thought of characters as strings in time, entangling together. I wanted to understand that. 
+What would it look like if we could <i>see</i> how characters interact between them?
 
-That's the beginning of <i>Literary Braids</i>. 
+Probably something like this.
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
@@ -23,3 +23,6 @@ That's the beginning of <i>Literary Braids</i>.
 -->
 
 
+Sometimes I thought of characters as strings in time, entangling together. I wanted to understand that. 
+
+That's the beginning of <i>Literary Braids</i>. 
