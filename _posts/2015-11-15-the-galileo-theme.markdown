@@ -5,10 +5,10 @@ date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
 <!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
 ---
-<center> Ever wondered how character interactions <i>look</i> like? </center>
+<center> Ever wondered how character interactions <i>look</i> like? 
 
 
-<center> Come down the rabbit hole </center>
+Then come down the rabbit hole: </center>
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
