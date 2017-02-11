@@ -8,7 +8,7 @@ categories: jekyll theme
 
 <ol>
   
-    <li><a href="\braids\bernarda.html">La casa de Bernarda Alba</a></li>
+    <li><a href="/braids/bernarda.html">La casa de Bernarda Alba</a></li>
     <li>A list of the characters you want to consider (max. 10, works better with fewer).</li>
     <li>All the different ways each character is referred to (name, surname, nicknames…).</li>
     <li>The color you want to assign each character (preferably in RGB so that you tell me exactly the colors you want – here you can find the RGB codes for any color you want).</li>
