@@ -5,24 +5,16 @@ date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
 <!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
 ---
-<center> Ever wondered how character interactions <i>look</i> like? 
+<center> Ever wondered how character interactions <i>look</i> like? </center>
 
 
-Then come down the rabbit hole: </center>
+<center> Come down the rabbit hole: </center>
 
 <div class="post-image">
-    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height /><a href="/alice_squared.jpg">
+    <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland</i> You can see it larger by clicking.</p></a>
 
    
-<!--
-<div class="post-image post-image--split">
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The first in an example of split-imagery" />
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The second in an example of split-imagery" />
-</div>
--->
+Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
 
-
-Sometimes I thought of characters as strings in time, entangling together. I wanted to understand that. 
-
-That's the beginning of <i>Literary Braids</i>. 
+Given a literary work, my computer program traces the interactions between characters (in order to make it viable it assumes an interaction between two characters is the consecutive mention of their names, nicknames,...). Then I feed it colours and it composes these beautiful 
