@@ -11,7 +11,7 @@ author: Ismael Medina
 author_link: https:/literarybraids.com
 author_description: 
 email: ismaelmedinasuarez@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description:  Graphic insights into character interactions > # this means to ignore newlines until "baseurl:"
   Graphic insights into character interactions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "literarybraids.com" # the base hostname & protocol for your site
