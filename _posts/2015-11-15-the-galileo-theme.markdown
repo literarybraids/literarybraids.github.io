@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Literary Braids"
+bla: "blablablalba"
 categories: jekyll theme
 <!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
 ---
