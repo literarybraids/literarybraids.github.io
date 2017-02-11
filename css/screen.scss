@@ -42,6 +42,12 @@ $img-banner: '{{ site.baseurl }}/img/banner';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 
+// danger
+
+$("div.post-date").css("font-size","10px");
+
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
