@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "More about the braids"
+date:   2015-11-10 13:05:14 +0100
+categories: jekyll theme
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
+---
+
+Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
+ 
+Given a literary work, my computer program traces the interactions between characters (in order to make it viable it assumes an interaction between two characters is the consecutive mention of their names, nicknames,...). Then I feed it colours and it composes these beautiful staves.
+
+
+
+
