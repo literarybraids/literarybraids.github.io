@@ -18,7 +18,7 @@ categories: jekyll theme
 </div>
 
 
-<p class="post-date" | text-align: center> About the braids </p>
+<p class="post-date"> About the braids </p>
 
 Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
  
