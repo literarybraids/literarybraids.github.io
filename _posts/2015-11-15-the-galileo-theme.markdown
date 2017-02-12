@@ -12,7 +12,17 @@ categories: jekyll theme
 
 <div class="post-image">
     <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height /><a href="/alice_squared.jpg">
-    <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland.</i> You can see it larger by clicking on the text.</p></a>
+    <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland.</i> Click on the text to enlarge.</p></a>
+</div>
+
+<p class="post-date"> About the braids </p>
+
+Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
+ 
+Given a literary work, my computer program traces the interactions between characters (in order to make it viable it assumes an interaction between two characters is the consecutive mention of their names, nicknames,...). Then I feed it colours and it composes these beautiful staves.
+
+
+
 
    
 
