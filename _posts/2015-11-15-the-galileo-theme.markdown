@@ -7,8 +7,6 @@ categories: jekyll theme
 ---
 
 
-<p class="post-date"> Graphic insight into character interactions </p>
-
 <center> Ever wondered how character interactions <i>look</i> like? </center>
 
 
@@ -20,7 +18,7 @@ categories: jekyll theme
 </div>
 
 
-<center><p class="post-date"> About the braids </p><\center>
+<p class="post-date" | text-align: center> About the braids </p>
 
 Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
  
@@ -45,8 +43,7 @@ Given a literary work, my computer program traces the interactions between chara
   
 </ul>   
     
-    
-<center><p class="post-date"> "How to get one" </p><\center>
+<p class="post-date"> "How to get one" </p>
     
 Please don’t hesitate to contact me at bookbraids@gmail.com if you wish to order a braid of a particular book. For making it I’ll need:
  <ol type="1">
