@@ -8,7 +8,7 @@
 # Site settings
 title: Literary Braids
 author: Ismael Medina
-author_link: https:/literarybraids.com
+author_link: "https:/literarybraids.com"
 author_description: 
 email: ismaelmedinasuarez@gmail.com
 description: # this means to ignore newlines until "baseurl:"
