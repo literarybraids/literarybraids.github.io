@@ -3,7 +3,10 @@
         <a href="{{ include.post.url | prepend: site.baseurl }}">
             <h1 class="post-title">{{ include.post.title }}</h1>
         </a>
-        <h1 class="post-date">{{ include.post.bla | font-size: 10px}}</h1>
+        <!-- <h1 class="post-date">{{ include.post.bla | font-size: 10px}}</h1> -->
+        <div class="post-image">
+            <img src="/img/braid0_5_2.png" alt="A full-size image example" />
+        </div>
     </header>
     <div class="post-body">
         {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}" target="_blank" class="post-body-location">{{ include.post.location }}</a><span class="post-body-location-divider">—</span>{% endif %}{{ include.content }}
