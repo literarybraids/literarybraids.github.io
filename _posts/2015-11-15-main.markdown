@@ -17,7 +17,7 @@ categories: jekyll theme
 </div>
 
 
-<p class="post-date"> About the braids </p>
+<h1 class="post-date"> About the braids </h1>
 
 Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
  
@@ -26,7 +26,7 @@ Given a literary work, my computer program traces the interactions between chara
 
 
 
-<p class="post-date"> More braids </p>
+<h1 class="post-date"> More braids </h1>
 
  <ol type="1">
   
