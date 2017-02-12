@@ -28,7 +28,7 @@ Given a literary work, my computer program traces the interactions between chara
 
 <p class="post-date"> More braids </p>
 
-<ul style="list-style-type:disc">
+ <ol type="1">
   
    
     <li><a href="/braids/oldman2.jpg"> <i>The Old Man and the Sea</i>, by Ernest Hemingway</a></li>
@@ -42,7 +42,7 @@ Given a literary work, my computer program traces the interactions between chara
   
     
   
-</ul>   
+</ol>   
     
 <h1 class="post-date"> How to get one </h1>
     
