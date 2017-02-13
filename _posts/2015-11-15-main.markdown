@@ -36,6 +36,8 @@ Given a literary work, my computer program traces the interactions between chara
         
     <li><a href="/braids/unbearable.jpg"> <i>The Unbearable Lightness of Being</i>, by Milan Kundera.</a></li> We see how the author focus in a couple of characters during considerable lengths of the book.
   
+    <li>A colourful one: <a href="/braids/thursday.jpg"> <i>The Man Who Was Thursday</i>, by G. K. Chesterton.</a></li> I'm quite fond of this one: love the way Thursday guides the novel and the omnipresence of Sunday.
+  
     <li>An example of a book in which you get lost in the braid: <a href="/braids/thentherewherenone_final.jpg"> <i>Then There Where None</i>, by Agatha Christie.</a></li> The interactions are so intrincate you can't see a thing.
   
     
