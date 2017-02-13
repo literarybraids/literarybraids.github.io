@@ -22,7 +22,7 @@ categories: jekyll theme
 
 Sometimes I think of characters as strings in time, entangling together when they interact. <i>Literary Braids</i> is that idea made real.
  
-Given a literary work, my computer program traces the interactions between characters. Then I feed it colours and to compose these beautiful staves.
+Given a literary work, my computer program traces the interactions between characters. Then I feed it colours to compose these beautiful staves.
 
 
 
