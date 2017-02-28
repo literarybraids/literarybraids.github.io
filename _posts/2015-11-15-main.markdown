@@ -18,8 +18,8 @@ categories: jekyll theme
 </div>
 
 <div class="post-image">
-    <img src="/braids/alices_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
-    <p class="post-image-caption">Evolution of frequencies of mention for each character in <i> Alice's Adventures in Wonderland.</i> We can quickly see when each character appears and its importance in every moment.  </p></a>
+    <img src="/braids/alice_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
+    <p class="post-image-caption">Another graph: evolution of the frequencies of mention for each character in <i> Alice's Adventures in Wonderland.</i> We can quickly see when each character appears and its importance in every moment.  </p></a>
 </div>
 
 
