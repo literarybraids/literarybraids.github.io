@@ -17,6 +17,11 @@ categories: jekyll theme
     <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland.</i> We see in a beautiful and clear way how Alice jumps from one character to another. Click on the text to enlarge.</p></a>
 </div>
 
+<div class="post-image">
+    <img src="/braids/alices_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
+    <p class="post-image-caption">Evolution of frequencies of mention for each character in <i> Alice's Adventures in Wonderland.</i> We can quickly see when each character appears and its importance in every moment.  </p></a>
+</div>
+
 
 <h1 class="post-date"> About the braids </h1>
 
