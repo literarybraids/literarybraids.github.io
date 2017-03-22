@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Literary Braids"
+categories: jekyll theme
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
+---
+
+
+<center> Ever wondered what character interactions would <i>look</i> like? </center>
+
+<center>     </center>
+
+<center> Come down the rabbit hole: </center>
+
+<div class="post-image">
+    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height /><a href="/alice_squared.jpg">
+    <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland.</i> We see in a beautiful and clear way how Alice jumps from one character to another. Click on the text to enlarge.</p></a>
+</div>
+
+
+<h1 class="post-date"> About the braids </h1>
+
+Sometimes I think of characters as strings in time, entangling together as they interact with each other. <i>Literary Braids</i> is that idea made real.
+ 
+Given a literary work, my computer program traces the interactions between characters. Then I feed it colours to compose these beautiful patterns.
+
+Once I developed this, I continued thinking of other kinds of visualizing the information enclosed in a book. Here you have some more examples.
+
+<div class="post-image">
+    <img src="/braids/alice_grid.png" alt="" alt = "" height /><a href="/braids/alices_grid.png">
+    <p class="post-image-caption"> Just a summary of the interactions in <i>Alice</i>    </p></a>
+</div>
+
+<div class="post-image">
+    <img src="/braids/alice_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
+    <p class="post-image-caption">Another graph: evolution of the frequencies of mention for each character in <i> Alice's Adventures in Wonderland.</i> We can quickly see when each character appears and its importance in every moment.  </p></a>
+</div>
+
+
+<h1 class="post-date"> More braids </h1>
+
+ <ol type="1">
+  
+   
+    <li><a href="/braids/oldman2.jpg"> <i>The Old Man and the Sea</i>, by Ernest Hemingway</a></li>
