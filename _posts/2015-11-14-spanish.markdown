@@ -61,14 +61,4 @@ Una vez hube desarrollado esto continúo investigando en otras forma de visualiz
 <h1 class="post-date"> Cómo encargar una </h1>
 
 Por favor, no dude en ponerse en contacto conmigo a en <a href="mailto:ismaelmedinasuarez@gmail.com">ismaelmedinasuarez@gmail.com</a> si desea encargar una trenza de algún libro en particular. 
-<!--. For making it I’ll need:
- <ol type="1">
-  
-    <li>A .txt file of the book.</li>
-    <li>A list of the characters you want to consider (max. 10, works better with fewer).</li>
-    <li>All the different ways each character is referred to (name, surname, nicknames…).</li>
-    <li>The color you want to assign each character (preferably in RGB so that you tell me exactly the colors you want – here you can find the RGB codes for any color you want).</li>
-    <li>Peculiar aspects of the novel which may alter how characters are addressed (first person narrator, a switch in the narrator, deliberate typos, etc.)</li>
-
-</ol> -->
    
