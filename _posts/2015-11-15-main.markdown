@@ -57,9 +57,9 @@ Once I developed this, I continued thinking of other kinds of visualizing the in
   
 </ol>   
     
-<h1 class="post-date"> How to get one </h1>
+<h1 class="post-date"> How to order one </h1>
     
-Please don’t hesitate to contact me at <a href="mailto:ismaelmedinasuarez@gmail.com">ismaelmedinasuarez@gmail.com</a> if you wish to order a braid of a particular book. For making it I’ll need:
+Please don’t hesitate to contact me at <a href="mailto:ismaelmedinasuarez@gmail.com">ismaelmedinasuarez@gmail.com</a> if you wish to order a braid of a particular book. <!-- For making it I’ll need:
  <ol type="1">
   
     <li>A .txt file of the book.</li>
@@ -73,7 +73,7 @@ Please don’t hesitate to contact me at <a href="mailto:ismaelmedinasuarez@gmai
 
 
 
-
+-->
 
    
 
