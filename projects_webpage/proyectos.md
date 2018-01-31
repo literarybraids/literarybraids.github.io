@@ -13,7 +13,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 *Literary Braids* was my first personal project, and probably the most beautiful to this date. The core idea was to design a computer program that would identify character interactions in a literary work and then represent them in a visual way. Literary braids would see characters as strings in time, braiding them together whenever they interact. The output is this beautiful pattern:
 <center>   
 <p align="center">
-<img src="/projects_webpage/alice.jpg" width="800px" />
+<img src="/projects_webpage/alice.jpg" width="1000px" />
 </p>
 </center>
 
