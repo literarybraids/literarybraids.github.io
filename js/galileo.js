@@ -26,7 +26,7 @@ resetSecretReveal = function () {
 document.addEventListener('DOMContentLoaded', function () {
   // 3000 ms is arbitrary, though there must be at least some
   // delay here, otherwise it doesn't seem to play ball
-  setTimeout(doSecretReveal, 3000)
+  setTimeout(doSecretReveal, 0)
 })
 
 window.addEventListener('beforeunload', function () {
