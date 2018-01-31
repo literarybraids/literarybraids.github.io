@@ -21,9 +21,9 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 
 My last personal project is called *My Study Plan* and it is a free website that helps students making their own study calendar for their exams, taking into account the difficulty of their subjects and their availability of time. Since its launch more than two hundred people have visited [*My Study Plan*](mystudyplan.website) to get theirs. The output is something of this kind:
 
-<p align="center">
+<center>
 <img src="/projects_webpage/study_plan.png" width="800px" />
-</p>
+</center>
 
 <h1 class="post-date"> At UCM's Microbiology </h1>
 
