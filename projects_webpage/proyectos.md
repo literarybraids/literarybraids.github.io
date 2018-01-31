@@ -1,5 +1,10 @@
-Some of my projects
-================
+---
+layout: post
+title:  "Some of my projects"
+categories: jekyll theme
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
+---
+
 My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and Physics at the UCM. Though most of my time is devoted to my studies, I often come up with ideas I feel the urge of realizing. A spark, a glimpse, was the beginning of all these projects. I hope you find them beautiful and inspiring. 
 
 *Literary Braids*
