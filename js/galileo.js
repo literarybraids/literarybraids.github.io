@@ -19,7 +19,7 @@ resetSecretReveal = function () {
     // the browser returns the user to is incorrect. To compensate for this, we hide the secret banner
     // section again and adjust the page scroll value accordingly
     document.body.className += ' is-offset'
-    window.scroll(0, Math.max(window.scrollY - 195, 0))
+    window.scroll(0, Math.max(window.scrollY*0, 0))
   }
 }
 
