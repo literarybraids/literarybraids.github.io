@@ -1,6 +1,6 @@
 'use strict'
 
-var secretRevealed = false
+var secretRevealed = true
 var doSecretReveal
 var resetSecretReveal
 
