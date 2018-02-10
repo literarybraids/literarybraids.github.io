@@ -13,9 +13,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 [*Literary Braids*](www.literarybraids.com) was my first personal project, and probably the most beautiful to this date. The core idea was to design a computer program that would identify character interactions in a literary work and then represent them in a visual way. Literary braids would see characters as strings in time, braiding them together whenever they interact. The output is this beautiful pattern:
 
 <center>   
-<p align="center">
 <img src="/projects_webpage/alice.jpg" width="1000px" />
-</p>
 </center>
 
 <h1 class="post-date"> My Study Plan </h1>
@@ -33,20 +31,21 @@ In september 2016 I started collaborating with Mª Ángeles Gómez Flechoso (Bio
 * Designing the electrical circuit for measuring impedance in the vials.
 * Programming the software for data retrieval and analysis. This, as it turned out, involved the use of smoothing algorithms:
 
-<p align="center">
+<center>
 <img src="/projects_webpage/graficas.jpg" width="1000px" />
-</p>
+</center>
 * Understanding the fundamentals of how Bactrac’s device does analyse data. This required being able to design fitting functions flexible enough to fit different trends of data, as in this example:
 
-<p align="center">
+<center>
 <img src="/projects_webpage/ajuste_exp.jpg" width="800px" />
-</p>
+</center>
 
 We are currently writing a paper in which we describe how to reproduce our system, so that everyone who needs it (inside or outside academia) can build their own CO2 production analyser.
 
 <h1 class="post-date"> Voronoi map using Madrid's Metro station as nodes </h1>
 
 I also dedicate some of my time to simpler projects, which nevertheless can produce interesting insights. For example, this is Voronoi diagram of Madrid, in which the nodes are the Metro stations. This means that the colorized region around a Metro station is closer to that Metro station than to any other. 
+
 <center>
 <img src="/projects_webpage/metros_madrid_fixed.jpg" width="700px" />
 </center>
