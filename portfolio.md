@@ -30,13 +30,13 @@ In september 2016 I started collaborating with Mª Ángeles Gómez Flechoso (Bio
 
 <ul>
 
-<li> Designing the electrical circuit for measuring impedance in the vials.<\li>
-<li> Programming the software for data retrieval and analysis. This, as it turned out, involved the use of smoothing algorithms: <\li>
+<li> Designing the electrical circuit for measuring impedance in the vials.
+<li> Programming the software for data retrieval and analysis. This, as it turned out, involved the use of smoothing algorithms: 
 
 <center>
 <img src="/projects_webpage/graficas.jpg" width="1000px" />
 </center>
-<li> Understanding the fundamentals of how Bactrac’s device does analyse data. This required being able to design fitting functions flexible enough to fit different trends of data, as in this example: <\li>
+<li> Understanding the fundamentals of how Bactrac’s device does analyse data. This required being able to design fitting functions flexible enough to fit different trends of data, as in this example: 
 
 </ul>
 <center>
