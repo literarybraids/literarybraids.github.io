@@ -10,7 +10,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 
 <h1 class="post-date"> Literary Braids </h1>
 
-[*Literary Braids*](www.literarybraids.com) was my first personal project, and probably the most beautiful to this date. The core idea was to design a computer program that would identify character interactions in a literary work and then represent them in a visual way. Literary braids would see characters as strings in time, braiding them together whenever they interact. The output is this beautiful pattern:
+[*Literary Braids*](https://www.literarybraids.com) was my first personal project, and probably the most beautiful to this date. The core idea was to design a computer program that would identify character interactions in a literary work and then represent them in a visual way. Literary braids would see characters as strings in time, braiding them together whenever they interact. The output is this beautiful pattern:
 
 <center>   
 <img src="/projects_webpage/alice.jpg" width="1000px" />
