@@ -11,6 +11,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 <h1 class="post-date"> Literary Braids </h1>
 
 *Literary Braids* was my first personal project, and probably the most beautiful to this date. The core idea was to design a computer program that would identify character interactions in a literary work and then represent them in a visual way. Literary braids would see characters as strings in time, braiding them together whenever they interact. The output is this beautiful pattern:
+
 <center>   
 <p align="center">
 <img src="/projects_webpage/alice.jpg" width="1000px" />
@@ -19,7 +20,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 
 <h1 class="post-date"> My Study Plan </h1>
 
-My last personal project is called *My Study Plan* and it is a free website that helps students making their own study calendar for their exams, taking into account the difficulty of their subjects and their availability of time. Since its launch more than two hundred people have visited [*My Study Plan*](mystudyplan.website) to get theirs. The output is something of this kind:
+My last personal project is called *My Study Plan* and it is a free website that helps students making their own study calendar for their exams, taking into account the difficulty of their subjects and their availability of time. Since its launch more than two hundred people have visited [*My Study Plan*](www.mystudyplan.website) to get theirs. The output is something of this kind:
 
 <center>
 <img src="/projects_webpage/study_plan.png" width="1000px" />
