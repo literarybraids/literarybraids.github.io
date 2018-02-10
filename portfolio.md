@@ -18,7 +18,7 @@ My name is Ismael Medina and I'm finishing the Double Degree in Mathematics and 
 
 <h1 class="post-date"> My Study Plan </h1>
 
-My last personal project is called *My Study Plan* and it is a free website that helps students making their own study calendar for their exams, taking into account the difficulty of their subjects and their availability of time. Since its launch more than two hundred people have visited [*My Study Plan*](www.mystudyplan.website) to get theirs. The output is something of this kind:
+My last personal project is called *My Study Plan* and it is a free website that helps students making their own study calendar for their exams, taking into account the difficulty of their subjects and their availability of time. Since its launch more than two hundred people have visited [*My Study Plan*](https://www.mystudyplan.website) to get theirs. The output is something of this kind:
 
 <center>
 <img src="/projects_webpage/study_plan.png" width="1000px" />
@@ -28,17 +28,17 @@ My last personal project is called *My Study Plan* and it is a free website that
 
 In september 2016 I started collaborating with Mª Ángeles Gómez Flechoso (Biomathematics) and Alejandro García Conde (Microbiology) at UCM’s Faculty of Biology. I contacted them due to my great interest in the application of mathematics models to biological systems and I wondered if I could learn about this while taking part in current research. They proposed me to program an Arduino to measure CO2 production of samples of microorganisms, as a simple to build, cheap and free alternative to industrial impedance analysers such as Bactrac. My tasks involved:
 
-<ul>
 
-<li> Designing the electrical circuit for measuring impedance in the vials.
-<li> Programming the software for data retrieval and analysis. This, as it turned out, involved the use of smoothing algorithms: 
+<ul type="1">
+  <li> Designing the electrical circuit for measuring impedance in the vials.
+  <li> Programming the software for data retrieval and analysis. This, as it turned out, involved the use of smoothing algorithms: 
 
-<center>
-<img src="/projects_webpage/graficas.jpg" width="1000px" />
-</center>
-<li> Understanding the fundamentals of how Bactrac’s device does analyse data. This required being able to design fitting functions flexible enough to fit different trends of data, as in this example: 
+  <center>
+  <img src="/projects_webpage/graficas.jpg" width="1000px" />
+  </center>
+  <li> Understanding the fundamentals of how Bactrac’s device does analyse data. This required being able to design fitting functions flexible enough to fit different trends of data, as in this example: 
 
-</ul>
+  </ul>
 <center>
 <img src="/projects_webpage/ajuste_exp.jpg" width="800px" />
 </center>
