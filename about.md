@@ -16,26 +16,13 @@ This approach has finally made feasible the braids of *Rayuela*, *Pride and Prej
 
 ## Suggesting one
 
-Please feel free to suggest books for new braids! I haven't read all the books in the world so surely there are interesting pieces that I have not thought about. However, consider that a braid with too many main characters wouldn't make sense (like one of *War and Peace*, *A hundred years of solitude*...), and for a *too* long work the reduction might become meaningless (like maybe for *The Lord of the Rings*). 
+Please feel free to suggest books for new braids! I haven't read all the books in the world so surely there are interesting pieces that I have not thought about. However, consider that a braid with too many main characters wouldn't make sense (like in *War and Peace* or *A Hundred Years of Solitude*), and for a *too* long book the reduction might become meaningless (like maybe for *The Lord of the Rings*). If the book you are thinking of is suitable for a braid, send me a message by <a href="https://twitter.com/literarybraids">Twitter</a> or <a href="https://instagram.com/literarybraids">Instagram</a> :).
 
 ## Ordering a new one
 
-Please don't hesitate to contact me at <a href="mailto:bookbraids@gmail.com">my email</a> if you are interested in ordering a braid. 
+Please don't hesitate to <a href="mailto:bookbraids@gmail.com">contact me</a> if you are interested in ordering a braid. 
 
 ## Ordering a print
 
-Unfortunately, right now I cannot ship prints of existing braids. However, if enough people support this idea, I may think about something. A good start is following me on <a href="https://twitter.com/literarybraids">Twitter</a> or <a href="https://instagram.com/literarybraids">Instagram</a> :smile:
+Unfortunately, right now I cannot ship prints of existing braids. However, if enough people support this idea, I may think about something. A good start is following me on <a href="https://twitter.com/literarybraids">Twitter</a> or <a href="https://instagram.com/literarybraids">Instagram</a> :).
 
-Nothing would give me more pleasure than opening a shop for the braids, but I am afraid that at the moment it is impossible for me. However, if enough people support the idea, I may think about something... 
-
-# About the code
-
-This project is mainly written in Python, with some performance-critical functions written in Julia and a bit of Bash here and there. 
-
-## The math (for my nerdy friends)
-
-Several pieces of math have been essential for the development of Literary Braids. Among them, the most important ones are:
-
-* *Arcleng parametrization*, which has made possible that the entangling looks the same all over the braid. 
-* *Basic combinatorics*, which has made possible an efficient reduction.
-* *Wasserstein distance*, which defines a distance between probability measures, and makes possible to compute how good a particular reduction is. 
