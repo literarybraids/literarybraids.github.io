@@ -1,44 +1,66 @@
-Galileo Theme
+<p align="center">
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
+</p>
+
+<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+
+***
+
+<p align="center">
+    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    |
+    <b><a href="README.md#setup">Setup</a></b>
+    |
+    <b><a href="README.md#settings">Settings</a></b>
+    |
+    <b><a href="README.md#how-to">How to</a></b>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+</p>
+
+## What has inside
+
+- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
+- Tests with [Travis](https://travis-ci.org/)
+- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
+- No JS. :sunglasses:
+
+## Setup
+
+0. :star: to the project. :metal:
+2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
+4. Write some posts :bowtie:
+
+If you want to test locally on your machine, do the following steps also:
+
+1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
+2. Clone the forked repo on your machine
+3. Enter the cloned folder via terminal and run `bundle install`
+4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
+5. Open it in your browser: `http://localhost:4000`
+6. Test your app with `bundle exec htmlproofer ./_site`
+7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
+
+## Settings
+
+You must fill some informations on `_config.yml` to customize your site.
+
+```
+name: John Doe
+bio: 'A Man who travels the world eating noodles'
+picture: 'assets/images/profile.jpg'
+...
+
+and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+```
+
+## How To?
+
+Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+
 ---
 
-Another damned theme for Jekyll.
-
-![The Galileo Theme](https://cloud.githubusercontent.com/assets/185649/11737785/b998bd0c-a002-11e5-9c93-0ac83917f32d.png)
-
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner.
-
-It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
-
-### In the wild
-
-Demo [here](http://travelog.io/galileo-theme/). I'm so damned fond of this theme that I also use it on [my own blog](http://travelog.io/).
-
-### Installation
-
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/galileo-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/galileo-theme`
-- Run the jekyll server: `jekyll serve -w`
-
-Observe the results at <http://localhost:4000>.
-
-### Customisation
-
-Make changes in [_config.yml](https://github.com/rowanoulton/galileo-theme/blob/master/_config.yml), ye damned heathens.
-
-#### A note about fonts
-
-I've employed [Typekit](https://typekit.com/) to load both "[Adobe Caslon Pro](https://typekit.com/fonts/adobe-caslon-pro)" & "[LTC Bodoni 175](https://typekit.com/fonts/ltc-bodoni-175)". To make use of these with your own Typekit account, publish a kit and enter the ID into the Jekyll config.
-
-This _is_ optional. If you don't want to use Typekit, well _fine_, just leave the Typekit Kit ID blank. You'll need to elect and specify substitute fonts [here](https://github.com/rowanoulton/galileo-theme/blob/master/css/screen.scss#L7) and [here](https://github.com/rowanoulton/galileo-theme/blob/master/css/screen.scss#L8).
-
-### Deployment
-
-This theme is built to be deployed easily to [GitHub Pages](https://pages.github.com/).
-
-
-### License
-
-[MIT](https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE).
-
-Do whatever you damn well please with it. I'm always glad to hear what folks are doing with it though — let me know on [Twitter](https://twitter.com/rowanoulton).
+[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
