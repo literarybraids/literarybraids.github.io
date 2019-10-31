@@ -4,7 +4,6 @@ layout: page
 ---
 # About the braids
 
-
 A text is a fabric formed by an interlacing of characters, places and events. Literary Braids arises as a way to visualize the unique framework of each novel. Each string represents a character: when a character comes into action, their line starts vibrating; when they interact with another character, their lines intertwine.
 
 When a book is too long, though, the result can be cumbersome. For this reason, some of the braids will come in a *reduced* form, which forms roughly the same history of the interactions within each chapter, but drastically reducing the length of the braid. 
