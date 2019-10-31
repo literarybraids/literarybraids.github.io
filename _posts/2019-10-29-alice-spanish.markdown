@@ -5,7 +5,7 @@ date: 2019-10-29 09:00
 tag: 
 - trenzas literarias
 - lewis carroll
-- alice
+- alicia
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -19,20 +19,18 @@ author: ismael
 
 ![Alice braid](../braids/alice_only_braid.png)
 
-From the moment I started making these braids, *Alice's Adventures in Wonderland* has been my reference book. The characters and their order are easily recognizable, the action is organized by Alice and the length of the book is just perfect for seeing everything with clarity. The chase of the White Rabbit is perfectly recognizable, as well as the encounter with the Cheshire Cat and the feast with the Mad Hatter and the March Hare. 
+Desde el momento en que comencé a hacer estas trenzas, *Alicia en el país de las maravillas* ha sido my libro de referencia. Los personajes y su orden son fácilmente reconocibles, la trama está organizada por Alicia y la longitud del libro es la justa para apreciar algo de complejidad pero con una claridad absoluta. La carrera tras el Conejo Blanco se puede seguir perfectamente, así como el encuentro con el Gato de Cheshire y la merienda organizada por el Sombrerero Loco y la Liebre de Marzo.
 
 
 
 <div class="side-by-side">
     <div class="toleft">
-        <p style="margin-top:15mm;">The organizing role of Alice can be also well appreciated in the *grid*, which is a summary of the interactions in the book: all characters interact more with Alice than with any other character. </p>
-        <p> 
-        For these reasons, <i>Alice</i> holds the honor of opening this new edition of Literary Braids, which I hope lasts long and brings the best books to get entangled. 
-        </p>
-    </div>
-
-    <div class="toright">
         <img class="image" src="../braids/alice_only_grid.png" alt="Alt Text" width="400">
     </div>
+    <div class="toright">
+        <p style="margin-top:0mm;">El papel central de Alicia se aprecia muy bien en la <i>grid</i>, que es un resumen de las interacciones a lo largo del libro. El resto de personajes no son más que un entretenimiento diseñado por Lewis Carroll —como el cuento en sí mismo lo era para Alice Lidell—, y ni siquiera personajes tan relacionados entre ellos como el Sombrerero y la Liebre tienen más interacciones que cada uno con Alicia. </p>
+        <p>Por su claridad y haberme acompañado desde que las trenzas no eran más que una idea loca, <i>Alicia</i> tiene el honor de abrir esta nueva edición de Literary Braids, que espero que traiga a los mejores libros y dé para largo. </p>
+    </div>
+
 </div>
 

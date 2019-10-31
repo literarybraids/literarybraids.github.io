@@ -25,14 +25,13 @@ From the moment I started making these braids, *Alice's Adventures in Wonderland
 
 <div class="side-by-side">
     <div class="toleft">
-        <p style="margin-top:15mm;">The organizing role of Alice can be also well appreciated in the *grid*, which is a summary of the interactions in the book: all characters interact more with Alice than with any other character. </p>
+        <img class="image" src="../braids/alice_only_grid.png" alt="Alt Text" width="400">
+    </div>
+    <div class="toright">
+        <p style="margin-top:0mm;">The central role of Alice can be also well appreciated in the <i>grid</i>, which is a summary of the interactions in the book: all characters interact more with Alice than with any other character. The cast is just some kind of amusement park for Alice —in the same way as the story in itself is for Alice Liddell—, so not even the Hatter and the Hare have more interactions between them than each of them with Alice. </p>
         <p> 
         For these reasons, <i>Alice</i> holds the honor of opening this new edition of Literary Braids, which I hope lasts long and brings the best books to get entangled. 
         </p>
-    </div>
-
-    <div class="toright">
-        <img class="image" src="../braids/alice_only_grid.png" alt="Alt Text" width="400">
     </div>
 </div>
 

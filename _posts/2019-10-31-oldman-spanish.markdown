@@ -26,14 +26,13 @@ Of course most of the interactions in this book are not face-to-face, so to say,
 
 <div class="side-by-side">
     <div class="toleft">
-        <p style="margin-top:15mm;">
-        The old man is obviously the main character, but "interacts" more with the fish or the boy than with himself. This may be at first surprising taking into account that he is alone in the sea for most of the book, but it is natural once you have read the book and seen that the old man keeps his mind busy all the time. </p>
-        <p>         </p>
-    </div>
-
-    <div class="toright">
         <img class="image" src="../braids/oldman_only_grid.png" alt="Old Man" width="400">
     </div>
+    <div class="toright">
+        <p style="margin-top:15mm;">
+        The old man is obviously the main character, but "interacts" more with the fish or the boy than with himself. This may be at first surprising taking into account that he is alone in the sea for most of the book, but it is natural once you have read the book and seen that the old man keeps his mind busy all the time. </p>
+    </div>
+
 </div>
 
 
