@@ -3,6 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if site.picturefill %}
@@ -24,6 +25,12 @@
         })(document);
       </script>
   {% endif %}
+=======
+  <title> Literary Braids - Graphic insight into character interactions </title> 
+  <!-- lo que iba entre title y title {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} -->
+  <meta name="description" content="Graphic insight into character interactions">
+ 
+>>>>>>> bb3c3ca11523235966b9fe3e162b1af1015aa761
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Sanchez" type="text/css">
   <link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

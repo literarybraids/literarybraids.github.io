@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Trenzas literarias"
+categories: jekyll theme
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
+---
+
+
+<center> ¿Te gustaría <i>visualizar</i> las interacciones entre personajes en una obra? </center>
+
+<center>     </center>
+
+<center> Baja por la madriguera del conejo: </center>
+
+<div class="post-image">
+    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height /><a href="/alice_squared.jpg">
+    <p class="post-image-caption">Trenza de <i> Alicia en el país de las maravillas.</i> Podemos ver de una manera clara y concisa como Alicia va saltando de personaje en personaje a lo largo de la obra.</p></a>
+</div>
+
+
+<h1 class="post-date"> Acerca de las trenzas </h1>
+
+A veces pienso en los personajes de una obra como hilos temporales, entrelazándose entre ellos a medida que interaccionan. Las <i>trenzas literarias</i> son esa idea hecha realidad.
+
+Dada una obra literaria, mi programa de ordenador identifica las interacciones entre los personajes. Asignándoles colores componemos estos curiosos pentagramas literarios.
+
+Una vez hube desarrollado esto continúo investigando en otras forma de visualizar la información que contiene un libro. A continuación puedes ver más ejemplos.
+
+
+<div class="post-image">
+    <img src="/braids/alice_grid.png" alt="" alt = "" height /><a href="/braids/alices_grid.png">
+    <p class="post-image-caption"> Un resumen de las interacciones en <i>Alicia</i>. El color en cada nodo representa el personaje que domina de los dos durante la obra.    </p></a>
+</div>
+
+<div class="post-image">
+    <img src="/braids/alice_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
+    <p class="post-image-caption"> Otro gráfico: evolución de las frecuencias de mención para cada personaje en <i> Alicia en el país de las maravillas</i>. Podemos ver rápidamente cuándo aparece cada personaje y su importancia en cada momento.</p></a>
+</div>
+
+
+<h1 class="post-date"> Más trenzas </h1>
+
+ <ol type="1">
+  
+   
+    <li><a href="/braids/oldman2.jpg"> <i>El viejo y el mar</i>, de Ernest Hemingway</a></li>
+        
+    <li><a href="/braids/unbearable.jpg"> <i>La insoportable levedad del ser</i>, de Milan Kundera.</a></li> Podemos ver cómo el autor se centra en una pareja de personajes durante trechos considerables del libro.
+  
+    <li>Una muy colorida: <a href="/braids/thursday.jpg"> <i>El hombre que fue jueves</i>, de G. K. Chesterton.</a></li> Es una que me gusta bastante: me encanta la manera en la que Jueves guía la novela, adems de la omnipresencia de Domingo.
+  
+    <li>Un ejemplo en el que te pierdes completamente en la trenza: <a href="/braids/thentherewherenone_final.jpg"> <i>Diez negritos</i>, d Agatha Christie.</a></li> Las interacciones son tan intrincadas que no se puede ver apenas nada. 
+  
+    
+    <li><a href="/braids/bernarda_alba.jpg"> <i>La casa de Bernarda Alba</i>, de Federico Garcia Lorca</a></li>
+  
+    
+  
+</ol>   
+    
+<h1 class="post-date"> Cómo encargar una </h1>
+
+Por favor, no dude en ponerse en contacto conmigo a en <a href="mailto:ismaelmedinasuarez@gmail.com">ismaelmedinasuarez@gmail.com</a> si desea encargar una trenza de algún libro en particular. 
+   

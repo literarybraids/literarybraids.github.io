@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Literary Braids"
+categories: jekyll theme
+<!-- location: What would it look like if we could <i>see</i> how characters interact between them? -->
+---
+
+
+<center> Ever wondered what character interactions would <i>look</i> like? </center>
+
+<center>     </center>
+
+<center> Come down the rabbit hole: </center>
+
+<div class="post-image">
+    <img src="/alice_2000.jpg" alt="A full-size image example" alt = "" height /><a href="/alice_squared.jpg">
+    <p class="post-image-caption">Braid of <i> Alice's Adventures in Wonderland.</i> We see in a beautiful and clear way how Alice jumps from one character to another. Click on the text to enlarge.</p></a>
+</div>
+
+
+<h1 class="post-date"> About the braids </h1>
+
+Sometimes I think of characters as strings in time, entangling together as they interact with each other. <i>Literary Braids</i> is that idea made real.
+ 
+Given a literary work, my computer program traces the interactions between characters. Then I feed it colours to compose these beautiful patterns.
+
+Once I developed this, I continued thinking of other kinds of visualizing the information enclosed in a book. Here you have some more examples.
+
+<div class="post-image">
+    <img src="/braids/alice_grid.png" alt="" alt = "" height /><a href="/braids/alices_grid.png">
+    <p class="post-image-caption"> Just a summary of the interactions in <i>Alice</i>    </p></a>
+</div>
+
+<div class="post-image">
+    <img src="/braids/alice_splines_deg3.png" alt="" alt = "" height /><a href="/braids/alices_splines_deg3.png">
+    <p class="post-image-caption">Another graph: evolution of the frequencies of mention for each character in <i> Alice's Adventures in Wonderland.</i> We can quickly see when each character appears and its importance in every moment.  </p></a>
+</div>
+
+
+<h1 class="post-date"> More braids </h1>
+
+ <ol type="1">
+  
+   
+    <li><a href="/braids/oldman2.jpg"> <i>The Old Man and the Sea</i>, by Ernest Hemingway</a></li>
+        
+    <li><a href="/braids/unbearable.jpg"> <i>The Unbearable Lightness of Being</i>, by Milan Kundera.</a></li> We see how the author focus in a couple of characters during considerable lengths of the book.
+  
+    <li>A colourful one: <a href="/braids/thursday.jpg"> <i>The Man Who Was Thursday</i>, by G. K. Chesterton.</a></li> I'm quite fond of this one: love the way Thursday guides the novel and the omnipresence of Sunday.
+  
+    <li>An example of a book in which you get lost in the braid: <a href="/braids/thentherewherenone_final.jpg"> <i>Then There Where None</i>, by Agatha Christie.</a></li> The interactions are so intrincate you can't see a thing.
+  
+    
+    <li><a href="/braids/bernarda_alba.jpg"> <i>La casa de Bernarda Alba</i>, by Federico Garcia Lorca</a></li>
+  
+    
+  
+</ol>   
+    
+<h1 class="post-date"> How to order one </h1>
+    
+Please don’t hesitate to contact me at <a href="mailto:ismaelmedinasuarez@gmail.com">ismaelmedinasuarez@gmail.com</a> if you wish to order a braid of a particular book. 
+
+
+<!-- For making it I’ll need:
+ <ol type="1">
+  
+    <li>A .txt file of the book.</li>
+    <li>A list of the characters you want to consider (max. 10, works better with fewer).</li>
+    <li>All the different ways each character is referred to (name, surname, nicknames…).</li>
+    <li>The color you want to assign each character (preferably in RGB so that you tell me exactly the colors you want – here you can find the RGB codes for any color you want).</li>
+    <li>Peculiar aspects of the novel which may alter how characters are addressed (first person narrator, a switch in the narrator, deliberate typos, etc.)</li>
+
+</ol> 
+   
+
+
+
+-->
+
+   
+
