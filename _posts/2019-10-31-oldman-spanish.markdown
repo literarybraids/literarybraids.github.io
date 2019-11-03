@@ -4,9 +4,9 @@ layout: post
 date: 2019-10-31 10:00
 headerImage: true
 tag:
-- literary braids
+- trenzas literarias
 - ernest hemingway
-- old man
+- el viejo y el mar
 star: false
 projects: true
 category: blog
