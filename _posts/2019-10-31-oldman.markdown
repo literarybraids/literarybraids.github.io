@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - literary braids
 - ernest hemingway
-- old man
 star: false
 category: blog
 author: ismael

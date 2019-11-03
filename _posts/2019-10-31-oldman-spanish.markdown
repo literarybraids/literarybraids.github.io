@@ -6,7 +6,6 @@ headerImage: true
 tag:
 - trenzas literarias
 - ernest hemingway
-- el viejo y el mar
 star: false
 projects: true
 category: blog

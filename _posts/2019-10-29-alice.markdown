@@ -7,8 +7,6 @@ headerImage: false
 tag:
 - literary braids
 - lewis carroll
-- alice
-- wonderland
 star: false
 category: blog
 author: ismael

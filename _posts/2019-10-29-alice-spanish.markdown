@@ -5,7 +5,6 @@ date: 2019-10-29 09:00
 tag: 
 - trenzas literarias
 - lewis carroll
-- alicia
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

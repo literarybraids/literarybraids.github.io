@@ -8,7 +8,6 @@ Un texto es un tejido formado por tramas y entrelazados de personajes, lugares y
 
 Sin embargo, cuando un libro es demasiado largo el resultado puede ser difícil de descifrar. Por esta razón, algunas trenzas vendrán en una versión *reducida*, que codifica a grosso modo la misma historia de interacciones para cada capítulo, pero reduce drásticamente la longitud de la trenza. 
 
-
 ![Reduction](../assets/images/about_reduced.png)
 <figcaption class="caption"> A la izquierda, el primer capítulo completo de <i>Rayuela</i>. A la derecha, su versión reducida. Una reducción por un factor de 2 es llevada a cabo examinando entre todas las posibles sublistas de interacciones, aquella que mejor describe la dinámica de cada capítulo. </figcaption>
 
