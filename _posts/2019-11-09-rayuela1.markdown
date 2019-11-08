@@ -12,6 +12,7 @@ category: blog
 author: ismael
 description: There is always a bigger fish
 hidden: true
+visible: false
 ---
 
 <p style="text-align: center;"> <i> There is always a bigger fish</i> </p>
