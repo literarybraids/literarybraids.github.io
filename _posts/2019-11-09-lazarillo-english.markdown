@@ -10,6 +10,7 @@ category: blog
 author: ismael
 description: There is always a bigger fish
 hidden: false
+visible: false
 ---
 
 <p style="text-align: center;"> <i> "You fool, now learn that a blind man's servant has to be

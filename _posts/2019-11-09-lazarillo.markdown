@@ -11,6 +11,7 @@ description: "Trenza del Lazarillo"
 category: project
 project: true
 author: ismael
+visible: false
 #externalLink: true
 ---
 

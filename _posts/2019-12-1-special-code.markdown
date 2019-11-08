@@ -13,6 +13,7 @@ category: blog
 author: ismael
 description: Come down the rabbit hole
 hidden: false
+visible: false
 ---
 
 # About the code
