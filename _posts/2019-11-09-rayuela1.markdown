@@ -11,7 +11,7 @@ star: false
 category: blog
 author: ismael
 description: There is always a bigger fish
-hidden: false
+hidden: true
 ---
 
 <p style="text-align: center;"> <i> There is always a bigger fish</i> </p>
