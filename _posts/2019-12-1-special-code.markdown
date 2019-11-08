@@ -12,7 +12,7 @@ star: false
 category: blog
 author: ismael
 description: Come down the rabbit hole
-hidden: true
+hidden: false
 ---
 
 # About the code

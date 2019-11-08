@@ -7,7 +7,7 @@ tag:
 - lewis carroll
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Come down the rabbit hole"
 category: project
 author: ismael

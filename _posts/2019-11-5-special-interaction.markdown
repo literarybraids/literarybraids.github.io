@@ -10,7 +10,7 @@ star: false
 category: blog
 author: ismael
 description: Topics about the braids
-hidden: False
+hidden: false
 ---
 
 I thought it might be a good idea to write down the FAQs I get, so from time to time I will be doing these *specials*. This way I can also post something some week I can't make a braid :').
