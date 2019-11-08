@@ -12,7 +12,7 @@ category: blog
 author: ismael
 category: project
 description: "There is always a bigger fish"
-hidden: false
+published: false
 #externalLink: true
 ---
 
