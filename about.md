@@ -2,6 +2,8 @@
 title: About
 layout: page
 ---
+<p style="text-align: center;">(Versión en español <a href="../about-esp">aquí</a>)     </p>
+
 # About the braids
 
 We can see every book as a fabric formed by their interlacing of characters, places and events. Literary Braids arises as a way to visualize the unique framework of each novel. Each string represents a character: when a character comes into action, their line starts vibrating; when they interact with another character, their lines intertwine.
