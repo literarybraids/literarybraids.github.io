@@ -11,7 +11,7 @@ hidden: false # don't count this post in blog pagination
 description: "Come down the rabbit hole"
 category: project
 author: ismael
-#externalLink: true
+externalLink: false
 ---
 
 <p style="text-align: center;"> <i> Come down the rabbit hole. </i> </p>
