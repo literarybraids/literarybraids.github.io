@@ -1,7 +1,7 @@
 ---
 title: ":grapes: Lazarillo de Tormes (english)"
 layout: post
-date: 2019-11-1 10:00
+date: 2019-11-10 10:00
 tag:
 - literary braids
 - spanish literature
