@@ -15,7 +15,6 @@ hidden: false
 
 I thought it might be a good idea to write down the FAQs I get, so from time to time I will be doing these *specials*. This way I can also post something some week I can't make a braid :').
 
-
 ## So, what is an interaction?
 
 Basically, the algorithm counts as an interaction every time that two characters are mentioned consecutively. I know, it doesn't seem very elegant. But if you think about it twice, every time one character follows another there has to be some connection: they might be talking, fighting, one thinking about the other, ignoring each other... It doesn't matter how, but if they are presented together by the author, they must be interacting in some way.

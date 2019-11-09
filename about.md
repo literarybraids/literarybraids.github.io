@@ -32,3 +32,8 @@ Unfortunately, right now I cannot ship prints of existing braids. However, if en
 
 Check if I have answered them in the <a href="../tags/#specials">specials</a>, and if not feel free to put me a message. 
 
+<hr>
+
+## Acknowledgements
+
+This project wouldn't have been possible without the support of my parents, who provided for everything during my studies, and of my friends, who have encouraged and advised me throughout these years. Special recognizion deserves Esther Cruz, who has since the beginning discussed with me the most important and delicate aspects of the math and the graphics; and Daniela Álvarez, who prepared the final version of the braids introduction above. 

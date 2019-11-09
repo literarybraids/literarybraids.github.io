@@ -13,8 +13,7 @@ hidden: false
 published: false
 ---
 
-<p style="text-align: center;"> <i> "You fool, now learn that a blind man's servant has to be
-one step ahead of the devil."</i> </p>
+<p style="text-align: center;"> <i> "You fool, now learn that a blind man's servant has to be one step ahead of the devil."</i> </p>
 
 ![Trenza del Lazarillo](../braids/lazarillo_eng_only_braid.png)
 
