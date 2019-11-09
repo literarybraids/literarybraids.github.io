@@ -1,5 +1,5 @@
 ---
-title: ":grapes: Lazarillo de Tormes (english)"
+title: ":grapes: Lazarillo de Tormes (English)"
 layout: post
 date: 2019-11-10 10:00
 tag:
