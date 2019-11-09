@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - literary braids
-- lewis carroll
+- english literature
 star: false
 category: blog
 author: ismael

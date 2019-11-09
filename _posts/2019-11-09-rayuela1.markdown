@@ -5,8 +5,8 @@ date: 2019-11-17 10:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- literary braids
-- julio cortazar
+- trenzas literarias
+- literatura latinoamericana
 star: false
 category: blog
 author: ismael

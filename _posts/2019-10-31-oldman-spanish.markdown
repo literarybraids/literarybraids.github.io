@@ -5,7 +5,7 @@ date: 2019-10-31 10:00
 headerImage: true
 tag:
 - trenzas literarias
-- ernest hemingway
+- literatura americana
 star: false
 projects: true
 category: blog

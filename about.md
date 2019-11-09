@@ -6,7 +6,7 @@ layout: page
 
 # About the braids
 
-We can see every book as a fabric formed by their interlacing of characters, places and events. Literary Braids arises as a way to visualize the unique framework of each novel. Each string represents a character: when a character comes into action, their line starts vibrating; when they interact with another character, their lines intertwine.
+We can see every book as a fabric formed by an interlacing of characters, places and events. Literary Braids arises as a way to visualize the unique framework of each novel. Each string represents a character: when a character comes into action, their line starts vibrating; when they interact with another character, their lines intertwine.
 
 When a book is too long, though, the result may be cumbersome. For this reason, some of the braids will be posted in a *reduced* form, which roughly encodes the same history of interactions within each chapter, but reduces drastically the length of the braid. 
 

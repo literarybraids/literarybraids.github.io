@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - literary braids
-- ernest hemingway
+- american literature
 star: false
 category: blog
 author: ismael
