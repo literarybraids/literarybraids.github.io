@@ -34,3 +34,8 @@ Within the braid we can discover how Lázaro passes from master to master. The s
     </div>
 </div>
 
+<div class="breaker"></div>
+
+So long for this week's braid. You can always find more at Literary Braid's <a href="https://twitter.com/LiteraryBraids">Twitter</a> and  <a href="https://www.instagram.com/LiteraryBraids/">Instagram</a>.
+
+
