@@ -67,4 +67,10 @@ It seems that #3 (the same as #4,#6,#7) is the best: represents the most frequen
 
 This approach has a problem, though, and it is that *the number of sublists grows exponentially with the original size*. For example, for reducing by half a chapter of only 30 interactions we should check **135 million possibilities**. 
 
-The workaround for this is to randomly sample sublists, and take the optimum over these. We have observed that with **1 million samples** per chapter we get a good compromise between CPU time and accuracy, so this is our default value. Appart from this we do some preprocessing to reduce exactly easy parts (for example, if an interaction gets repeated 10 times, we can just place 5 interactions in the reduced version), which guarantee that at the end we get an accurate reduction of the original braid.
+The workaround for this is to randomly sample sublists, and take the optimum over these. We have observed that with **1 million samples** per chapter we get a good compromise between CPU time and accuracy, so this is our default value. Appart from this we do some preprocessing to exactly reduce easy parts (for example, if an interaction appears 10 consecutive times, we can just place 5 in the reduced version), which guarantee that at the end we get an accurate reduction of the original braid.
+
+
+<div class="breaker"></div>
+
+So long for this week's special. You can always find more at Literary Braid's <a href="https://twitter.com/LiteraryBraids">Twitter</a> and  <a href="https://www.instagram.com/LiteraryBraids/">Instagram</a>.
+
