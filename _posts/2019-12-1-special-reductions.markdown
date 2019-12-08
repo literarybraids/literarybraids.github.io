@@ -51,10 +51,10 @@ For the second objective, we need to define some kind of *distance* between hist
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="../assets/images/distance.png" alt="Distance1" height="150">
+        <img class="image" src="../assets/images/distance.png" alt="Distance1" >
     </div>
     <div class="toright">
-<img class="image" src="../assets/images/distance2.png" alt="Distance2" height="150">
+<img class="image" src="../assets/images/distance2.png" alt="Distance2" >
     </div>
 </div>
 
