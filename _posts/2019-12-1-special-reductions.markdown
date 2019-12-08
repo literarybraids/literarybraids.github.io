@@ -65,4 +65,6 @@ Now that we have all the elements we only have to cycle over all the possible su
 
 It seems that #3 (the same as #4,#6,#7) is the best: represents the most frequent interactions of the chapter and mantains their order of appeareance. Of course, we will always lose some interactions, but we expect this to compensate throughout the book. 
 
-This approach has a problem, though, and it is that *the number of sublists grows exponentially with the original size*. For example, for reducing by half a chapter of only 30 interactions we should check **135 million possibilities**. The workaround for this is to randomly sample sublists, and take the optimum over these. We have observed that with 1 million samples per chapter we get a good compromise between CPU time and accuracy, so this is our default value.
+This approach has a problem, though, and it is that *the number of sublists grows exponentially with the original size*. For example, for reducing by half a chapter of only 30 interactions we should check **135 million possibilities**. 
+
+The workaround for this is to randomly sample sublists, and take the optimum over these. We have observed that with **1 million samples** per chapter we get a good compromise between CPU time and accuracy, so this is our default value. Appart from this we do some preprocessing to reduce exactly easy parts (for example, if an interaction gets repeated 10 times, we can just place 5 interactions in the reduced version), which guarantee that at the end we get an accurate reduction of the original braid.
