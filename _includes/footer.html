@@ -1,6 +1,11 @@
 <footer class="footer-main">
     <p class="extra">
-    {{ site.name }} © {{ site.time | date: '%Y' }} by <a class="link" href="https://ismedina.github.io">Ismael Medina</a>
+    {% assign current_date = site.time | date: '%d.%m.%Y' %}
+    {% if current_date == "26.10.2025" or current_date == "02.11.2025" %}
+        {{ site.name }} © {{ site.time | date: '%Y' }} by <a class="link" href="https://ismedina.github.io/crime-dinner">Samuel von Jung</a>
+    {% else %}
+        {{ site.name }} © {{ site.time | date: '%Y' }} by <a class="link" href="https://ismedina.github.io">Ismael Medina</a>
+    {% endif %}
     </p>
     <p class="extra">
         <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
