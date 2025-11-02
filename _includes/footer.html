@@ -1,26 +1,12 @@
 <footer class="footer-main">
     <p class="extra">
-        {{ site.name }} © {{ site.time | date: '%Y' }} by <span id="footer-author"><a class="link" href="https://ismedina.github.io">Ismael Medina</a></span>
+    {% assign current_date = site.time | date: '%d.%m.%Y' %}
+    {% if current_date == "02.11.2025" %}
+        {{ site.name }} © {{ site.time | date: '%Y' }} by <a class="link" href="https://ismedina.github.io/crime-dinner">Samuel von Jung</a>
+    {% else %}
+        {{ site.name }} © {{ site.time | date: '%Y' }} by <a class="link" href="https://ismedina.github.io">Ismael Medina</a>
+    {% endif %}
     </p>
-    <script>
-    (function() {
-        // Dates (day.month.year) when the special author/link should appear
-        var specialDates = ["28.10.2025", "02.11.2025"]; 
-
-        function pad(n) { return n < 10 ? '0' + n : n; }
-        var now = new Date();
-        var clientDate = pad(now.getDate()) + '.' + pad(now.getMonth() + 1) + '.' + now.getFullYear();
-
-        var authorSpan = document.getElementById('footer-author');
-        if (!authorSpan) return;
-
-        if (specialDates.indexOf(clientDate) !== -1) {
-            authorSpan.innerHTML = '<a class="link" href="https://ismedina.github.io/crime-dinner">Samuel von Jung</a>';
-        } else {
-            authorSpan.innerHTML = '<a class="link" href="https://ismedina.github.io">Ismael Medina</a>';
-        }
-    })();
-    </script>
     <p class="extra">
         <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
     </p>
